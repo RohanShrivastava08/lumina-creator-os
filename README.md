@@ -6,6 +6,12 @@ Lumina Creator OS is a premium, production-grade AI content operating system des
 
 ---
 
+## ✦ Live Demo
+
+https://lumina-creator-os-782319923032.asia-southeast1.run.app
+
+---
+
 ## ✦ Core Philosophy
 
 Lumina is not a "caption generator." It is a synthesis engine. 
