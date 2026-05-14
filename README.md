@@ -82,6 +82,7 @@ npm run dev
 
 ---
 
+
 ## ◈ The Lumina Manifesto
 
 Architecture begins within the seeding of narrative flow.
